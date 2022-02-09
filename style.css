@@ -2,3 +2,7 @@ h1 {
   color: red;
   background-color: blue;
 }
+
+p {
+  font-size: 12px;
+}
